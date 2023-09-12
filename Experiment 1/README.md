@@ -16,3 +16,4 @@
 ## 軟體流程圖 - 四合一七段顯示器
 ![image](https://github.com/conner1231230/Microprocessor-and-Interface-Design/assets/94916111/79dc52e9-8df8-484a-ad86-c358ec0035d1)
 
+### 進階題：在四合一七段顯示器上顯示學號後四碼
