@@ -3,6 +3,7 @@
 • 算術運算實驗：
   計算 (32h − 06h) × 7h 與 (64h + 0Dh) ÷ 06h ，觀察Debug Mode中的
   特殊功能暫存器，分別換算出算式的十進制答案。
+  
 • 邏輯運算實驗：
   利用邏輯運算指令先將 #10111101B 中的第4位元變為0，存入暫存器B，
   再將 #01000010B 中的第4位元變為1，最後透過NOT邏輯運算，使第二個值
@@ -15,15 +16,11 @@
 
 • 了解8051與運算相關的特殊功能暫存器 (如：PSW、ACC、B等)
 
-## 實驗電路 - LED跑馬燈
-![image](https://github.com/conner1231230/Microprocessor-and-Interface-Design/assets/94916111/149f643b-059d-468c-954e-09349891ad02)
-## 軟體流程圖 - LED跑馬燈
-![image](https://github.com/conner1231230/Microprocessor-and-Interface-Design/assets/94916111/2b0c93a8-b504-4b1b-a77c-9c4af94186f1)
+## 軟體流程圖
+![image](https://github.com/conner1231230/Microprocessor-and-Interface-Design/assets/94916111/abfe29bd-abd8-4823-a0f1-7caec18712d8)
 
-## 實驗電路 - 四合一七段顯示器
-![image](https://github.com/conner1231230/Microprocessor-and-Interface-Design/assets/94916111/e110a8b1-b1b3-4242-afd2-964ac4fcefb1)
-## 軟體流程圖 - 四合一七段顯示器
-![image](https://github.com/conner1231230/Microprocessor-and-Interface-Design/assets/94916111/79dc52e9-8df8-484a-ad86-c358ec0035d1)
+
+
 
 ### 進階題
 在單顆七段顯示器上執行2、3、5的四則運算。
